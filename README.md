@@ -31,3 +31,21 @@ LlamaAI-ChatBot_DataAnalyzer/
 ├── requirements.txt   # Required dependencies and libraries
 └── config/
     └── model_config.py  # Configuration for model and tokenizer setup
+
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8+
+- A Hugging Face account
+- Access to the LLaMA 3 model (request access [here](https://huggingface.co/meta-llama/Meta-Llama-3-8B))
+- Hugging Face API token
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/LlamaAI-ChatBot_DataAnalyzer.git
+   cd LlamaAI-ChatBot_DataAnalyzer
