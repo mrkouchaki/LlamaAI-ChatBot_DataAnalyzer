@@ -6,7 +6,7 @@
 
 ## Overview
 
-**LlamaAI-ChatBot_DataAnalyzer** is a cutting-edge project that enables you to interact with your data through natural language conversations powered by Meta's **LLaMA 3** model. This tool is designed to combine the power of a large language model (LLM) with practical data analytics, allowing users to upload datasets, ask questions about their data, and receive real-time insights and analyses. By leveraging **Hugging Face's** ecosystem and integrating with LLaMA, this project provides a seamless user experience for both conversational AI and advanced data analysis.
+**LlamaAI-ChatBot_DataAnalyzer** is a cutting-edge project that enables you to interact with your data through natural language conversations powered by Meta's **LLaMA 3** model. This tool is designed to combine the power of a large language model (LLM) with practical data analytics, allowing users to upload datasets, ask questions about their data, and receive real-time insights and analyses. By leveraging **Hugging Face's** ecosystem and integrating with LLaMA, this project provides a great user experience for both conversational AI and advanced data analysis.
 
 ---
 
