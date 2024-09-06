@@ -32,7 +32,7 @@ LlamaAI-ChatBot_DataAnalyzer/
 └── config/
     └── model_config.py  # Configuration for model and tokenizer setup
 
-
+```
 ## Getting Started
 
 ### Prerequisites
@@ -49,3 +49,4 @@ LlamaAI-ChatBot_DataAnalyzer/
    ```bash
    git clone https://github.com/yourusername/LlamaAI-ChatBot_DataAnalyzer.git
    cd LlamaAI-ChatBot_DataAnalyzer
+```
