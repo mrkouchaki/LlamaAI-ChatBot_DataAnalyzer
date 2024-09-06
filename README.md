@@ -152,6 +152,8 @@ git push origin feature/your-feature
 
 ## Contact
 
+- **Email:** [mrkouchakii@gmail.com](mailto:mrkouchakii@gmail.com)
+
 If you have any questions or need further assistance, feel free to reach out:
 
 GitHub Issues: [LlamaAI-ChatBot_DataAnalyzer Issue](https://github.com/mrkouchaki/LlamaAI-ChatBot_DataAnalyzer/issues)
