@@ -103,10 +103,10 @@ The model behavior can be configured using the config/model_config.py file. You 
 
 ### Example Configuration (model_config.py):
 
-    ```bash
+```bash
     MODEL_NAME = "meta-llama/Meta-llama-3-BB"
     MAX_LENGTH = 100
-    ```
+```
 
 #### License:
 
@@ -154,5 +154,5 @@ git push origin feature/your-feature
 
 If you have any questions or need further assistance, feel free to reach out:
 
-GitHub Issues: (request access [here][LlamaAI-ChatBot_DataAnalyzer Issue](https://github.com/mrkouchaki/LlamaAI-ChatBot_DataAnalyzer/issues))
-Email: (request access [here](mrkouchakii@gmail.com))
+GitHub Issues: [LlamaAI-ChatBot_DataAnalyzer Issue](https://github.com/mrkouchaki/LlamaAI-ChatBot_DataAnalyzer/issues)
+Email: mrkouchakii@gmail.com
