@@ -33,6 +33,7 @@ LlamaAI-ChatBot_DataAnalyzer/
     └── model_config.py  # Configuration for model and tokenizer setup
 
 ```
+
 ## Getting Started
 
 ### Prerequisites
@@ -44,9 +45,29 @@ LlamaAI-ChatBot_DataAnalyzer/
 
 ### Installation
 
+
 1. **Clone the repository:**
 
-   ```bash
+```bash
    git clone https://github.com/yourusername/LlamaAI-ChatBot_DataAnalyzer.git
    cd LlamaAI-ChatBot_DataAnalyzer
+```
+2. **Install the required dependencies:**
+
+```bash
+   pip install -r requirements.txt
+```
+3. **Set up Hugging Face API Authentication:**
+
+```bash
+   # You can authenticate via the CLI:
+   huggingface-cli login
+
+   # Or set the API token in your environment:
+   export HUGGINGFACE_HUB_TOKEN=your_access_token_here
+```
+4. **Run the chatbot:**
+
+```bash
+   python chatbot.py
 ```
