@@ -72,12 +72,12 @@ LlamaAI-ChatBot_DataAnalyzer/
    python chatbot.py
 ```
 
-# Usage
+## Usage
 
-## General Chat Mode:
+### General Chat Mode:
 Engage in conversational queries with the chatbot powered by LLaMA 3. You can ask general questions or request data-related insights.
 
-## Data Analytics Mode:
+### Data Analytics Mode:
 Upload a CSV file and interact with your data in real-time. Use the chatbot to extract statistical summaries, explore patterns, and analyze key metrics in your dataset.
 
 ### Example Interactions:
@@ -111,7 +111,7 @@ MAX_LENGTH = 100
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! To contribute to the project, follow these steps:
 
@@ -120,6 +120,17 @@ Contributions are welcome! To contribute to the project, follow these steps:
 
 ```bash
 git checkout -b feature/your-feature
+```
 
+3. Make your changes and commit them:
+```bash
+git commit -m 'Add feature'
+```
 
+4. Push to the branch:
 
+```bash
+git push origin feature/your-feature
+```
+
+5. Open a pull request.
