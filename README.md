@@ -1,3 +1,4 @@
+
 # LlamaAI-ChatBot_DataAnalyzer
 
 ### Chat with Your Data using Llama3 LLM Model to Perform Data Analytics
@@ -102,10 +103,10 @@ The model behavior can be configured using the config/model_config.py file. You 
 
 ### Example Configuration (model_config.py):
 
-```bash
-MODEL_NAME = "meta-llama/Meta-llama-3-BB"
-MAX_LENGTH = 100
-```
+    ```bash
+    MODEL_NAME = "meta-llama/Meta-llama-3-BB"
+    MAX_LENGTH = 100
+    ```
 
 #### License:
 
@@ -115,22 +116,43 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! To contribute to the project, follow these steps:
 
-1. Fork the repository.
-2. Create a new feature branch:
+1. **Fork the repository.**
+2. **Create a new feature branch:**
 
 ```bash
 git checkout -b feature/your-feature
 ```
 
-3. Make your changes and commit them:
+3. **Make your changes and commit them:**
 ```bash
 git commit -m 'Add feature'
 ```
 
-4. Push to the branch:
+4. **Push to the branch:**
 
 ```bash
 git push origin feature/your-feature
 ```
 
-5. Open a pull request.
+5. **Open a pull request.**
+
+## Future Enhancements
+
+#### Advanced Data Visualizations: 
+
+ - **Integrate features for generating charts and graphs based on data queries.**
+ - **Custom Fine-Tuning: Fine-tune the LLaMA model on specific domains or datasets to enhance chatbot accuracy for specialized data analysis.**
+ - **Cloud Deployment: Deploy the chatbot on cloud platforms for broader accessibility and scalability.**
+
+## Acknowledgments
+
+ - **Meta AI for the LLaMA model.**
+ - **Hugging Face for hosting pre-trained models and providing the infrastructure for easy model deployment.**
+ - **The open-source community for continuous contributions and support.**
+
+## Contact
+
+If you have any questions or need further assistance, feel free to reach out:
+
+GitHub Issues: (request access [here][LlamaAI-ChatBot_DataAnalyzer Issue](https://github.com/mrkouchaki/LlamaAI-ChatBot_DataAnalyzer/issues))
+Email: (request access [here](mrkouchakii@gmail.com))
