@@ -1,0 +1,5 @@
+transformers tensorflow
+transformers torch
+sentencepiece
+--upgrade urllib3 chardet
+huggingface_hub
