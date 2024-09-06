@@ -71,3 +71,55 @@ LlamaAI-ChatBot_DataAnalyzer/
 ```bash
    python chatbot.py
 ```
+
+# Usage
+
+## General Chat Mode:
+Engage in conversational queries with the chatbot powered by LLaMA 3. You can ask general questions or request data-related insights.
+
+## Data Analytics Mode:
+Upload a CSV file and interact with your data in real-time. Use the chatbot to extract statistical summaries, explore patterns, and analyze key metrics in your dataset.
+
+### Example Interactions:
+
+#### General Chatting:
+
+```bash
+User: Tell me about the LLaMA model.
+Bot: LLaMA is a large language model developed by Meta, designed for high-performance...
+```
+
+#### CSV Data Interaction
+
+```bash
+User: Upload CSV file.
+User: Can you give me the summary statistics of this dataset?
+Bot: Here is the summary: (shows a table of summary statistics)
+```
+#### Configuration:
+
+The model behavior can be configured using the config/model_config.py file. You can adjust parameters such as the maximum sequence length and tokenizer settings based on your specific requirements.
+
+### Example Configuration (model_config.py):
+
+```bash
+MODEL_NAME = "meta-llama/Meta-llama-3-BB"
+MAX_LENGTH = 100
+```
+
+#### License:
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Contributing
+
+Contributions are welcome! To contribute to the project, follow these steps:
+
+1. Fork the repository.
+2. Create a new feature branch:
+
+```bash
+git checkout -b feature/your-feature
+
+
+
